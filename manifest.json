@@ -1,0 +1,33 @@
+{
+  "name": "Nationalist Academy – AIOU Notes, Past Papers",
+  "short_name": "Nationalist Academy",
+  "description": "Free AIOU, Matric, Inter, BA, MA notes, past papers, guess papers for all Pakistani boards.",
+  "start_url": "/?utm_source=pwa&view=app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1e3c72",
+  "background_color": "#ffffff",
+  "lang": "en-PK",
+  "dir": "ltr",
+  "categories": ["education", "books", "productivity"],
+  "icons": [
+    { "src": "icon-72.png", "sizes": "72x72", "type": "image/png", "purpose": "any" },
+    { "src": "icon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
+    { "src": "icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ],
+  "shortcuts": [
+    {
+      "name": "AIOU Assignments",
+      "url": "/p/aiou-assignments.html",
+      "icons": [{ "src": "icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "AIOU Books",
+      "url": "/p/aiou-original-books.html",
+      "icons": [{ "src": "icon-96.png", "sizes": "96x96" }]
+    }
+  ]
+}
